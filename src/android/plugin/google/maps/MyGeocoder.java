@@ -17,7 +17,7 @@ import android.location.Geocoder;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.google.android.gms.maps.model.LatLngBounds;
+import com.google.android.m4b.maps.model.LatLngBounds;
 
 public class MyGeocoder extends CordovaPlugin {
 
