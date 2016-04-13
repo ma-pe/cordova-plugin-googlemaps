@@ -5,9 +5,9 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.google.android.gms.maps.model.Circle;
-import com.google.android.gms.maps.model.CircleOptions;
-import com.google.android.gms.maps.model.LatLng;
+import com.google.android.m4b.maps.model.Circle;
+import com.google.android.m4b.maps.model.CircleOptions;
+import com.google.android.m4b.maps.model.LatLng;
 
 public class PluginCircle extends MyPlugin  {
 
