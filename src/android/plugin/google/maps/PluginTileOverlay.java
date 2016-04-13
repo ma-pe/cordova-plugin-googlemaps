@@ -5,8 +5,8 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.google.android.gms.maps.model.TileOverlay;
-import com.google.android.gms.maps.model.TileOverlayOptions;
+import com.google.android.m4b.maps.model.TileOverlay;
+import com.google.android.m4b.maps.model.TileOverlayOptions;
 
 public class PluginTileOverlay extends MyPlugin implements MyPluginInterface {
 
