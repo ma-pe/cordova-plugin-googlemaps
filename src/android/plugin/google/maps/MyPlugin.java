@@ -14,13 +14,13 @@ import org.json.JSONException;
 import android.annotation.SuppressLint;
 import android.content.res.Resources;
 
-import com.google.android.gms.maps.GoogleMap;
-import com.google.android.gms.maps.model.Circle;
-import com.google.android.gms.maps.model.GroundOverlay;
-import com.google.android.gms.maps.model.Marker;
-import com.google.android.gms.maps.model.Polygon;
-import com.google.android.gms.maps.model.Polyline;
-import com.google.android.gms.maps.model.TileOverlay;
+import com.google.android.m4b.maps.GoogleMap;
+import com.google.android.m4b.maps.model.Circle;
+import com.google.android.m4b.maps.model.GroundOverlay;
+import com.google.android.m4b.maps.model.Marker;
+import com.google.android.m4b.maps.model.Polygon;
+import com.google.android.m4b.maps.model.Polyline;
+import com.google.android.m4b.maps.model.TileOverlay;
 
 public class MyPlugin extends CordovaPlugin implements MyPluginInterface  {
   protected HashMap<String, Object> objects;
