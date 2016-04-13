@@ -10,10 +10,10 @@ import org.json.JSONObject;
 
 import android.graphics.Color;
 
-import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.maps.model.LatLngBounds;
-import com.google.android.gms.maps.model.Polyline;
-import com.google.android.gms.maps.model.PolylineOptions;
+import com.google.android.m4b.maps.model.LatLng;
+import com.google.android.m4b.maps.model.LatLngBounds;
+import com.google.android.m4b.maps.model.Polyline;
+import com.google.android.m4b.maps.model.PolylineOptions;
 
 public class PluginPolyline extends MyPlugin implements MyPluginInterface  {
   /**
