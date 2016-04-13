@@ -25,12 +25,12 @@ import android.view.animation.BounceInterpolator;
 import android.view.animation.Interpolator;
 import android.view.animation.LinearInterpolator;
 
-import com.google.android.gms.maps.Projection;
-import com.google.android.gms.maps.model.BitmapDescriptor;
-import com.google.android.gms.maps.model.BitmapDescriptorFactory;
-import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.maps.model.Marker;
-import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.android.m4b.maps.Projection;
+import com.google.android.m4b.maps.model.BitmapDescriptor;
+import com.google.android.m4b.maps.model.BitmapDescriptorFactory;
+import com.google.android.m4b.maps.model.LatLng;
+import com.google.android.m4b.maps.model.Marker;
+import com.google.android.m4b.maps.model.MarkerOptions;
 
 public class PluginMarker extends MyPlugin {
   
