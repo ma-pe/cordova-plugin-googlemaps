@@ -14,11 +14,11 @@ import android.content.res.AssetManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
-import com.google.android.m4b.maps.model.BitmapDescriptor;
-import com.google.android.m4b.maps.model.BitmapDescriptorFactory;
-import com.google.android.m4b.maps.model.GroundOverlay;
-import com.google.android.m4b.maps.model.GroundOverlayOptions;
-import com.google.android.m4b.maps.model.LatLngBounds;
+import com.google.android.gms.m4b.model.BitmapDescriptor;
+import com.google.android.gms.m4b.model.BitmapDescriptorFactory;
+import com.google.android.gms.m4b.model.GroundOverlay;
+import com.google.android.gms.m4b.model.GroundOverlayOptions;
+import com.google.android.gms.m4b.model.LatLngBounds;
 
 public class PluginGroundOverlay extends MyPlugin {
 

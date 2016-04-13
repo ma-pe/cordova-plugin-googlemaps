@@ -12,8 +12,8 @@ import android.graphics.Canvas;
 import android.graphics.Matrix;
 import android.graphics.Paint;
 
-import com.google.android.m4b.maps.model.Tile;
-import com.google.android.m4b.maps.model.TileProvider;
+import com.google.android.gms.m4b.model.Tile;
+import com.google.android.gms.m4b.model.TileProvider;
 
 public class PluginTileProvider implements TileProvider {
   private String tileUrlFormat = null;
